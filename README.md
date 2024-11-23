@@ -477,7 +477,7 @@ function HSV2RGB (Hue, Saturation, Value) {
 
 ![NeoPixel Tester](NeoPixel-Test.png)
 
-This application lets the built-in LED blink blue, and the potentiometer will control speed and direction of the attached servo.
+This application lets the built-in LED blink blue and the NeoPixel string show a color gradient.
 
 ## License ##
 
