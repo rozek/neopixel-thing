@@ -2,7 +2,7 @@
 
 a simple thing for the "Modular-Things" project that allows you to control a WS2812 ("NeoPixel") RGB LED strip, 4 digital inputs, 3 digital outputs, 2 analog inputs, 2 analog outputs and the built-in RGB LED
 
-> "NeoPixel" is the Adafruit commercial name for products based on WS2812 RGB LEDs - in the context of this thing, both names may be used interchangeably
+> "NeoPixel" is the Adafruit commercial name for products based on WS2812 RGB LEDs - in the context of this "thing", both names may be used interchangeably
 
 ![NeoPixel Thing](NeoPixel-Test.jpg)
 
