@@ -2,6 +2,8 @@
 
 a simple thing for the "Modular-Things" project that allows you to control a WS2812 ("NeoPixel") RGB LED strip, 4 digital inputs, 3 digital outputs, 2 analog inputs, 2 analog outputs and the built-in RGB LED
 
+> "NeoPixel" is the Adafruit name for products based on WS2812 RGB LEDs - in the context of this thing, both names may be used interchangeably
+
 ![NeoPixel Thing](NeoPixel-Test.jpg)
 
 > Nota bene: in contrast to the "things" provided by the "Modular Things" project itself, this one has been developed for a [Pimoroni Tiny2040](https://shop.pimoroni.com/products/tiny-2040) board (which I had on my desk) and a [Waveshare RP2040-Zero](https://www.waveshare.com/wiki/RP2040-Zero) (which seems to be the cheapest of all small RP2040 boards). Since it uses the built-in RGB LEDs of that board, you may have to adjust the LED output commands in the Arduino "Firmware" shown below in order to make a thing for a different board.
